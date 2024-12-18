@@ -160,7 +160,7 @@
 
 							// Show message.
 								$message._show('success', 'Thank you!');
-								window.open('https://chproducts.tech/docs', '_blank');
+								window.open('https://chproducts.github.io/docs', '_blank');
 								//$message._show('failure', 'Something went wrong. Please try again.');
 
 						}, 750);
